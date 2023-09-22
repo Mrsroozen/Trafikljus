@@ -1,0 +1,38 @@
+body {
+    background-color: lightgray;
+}
+
+.mainbox {
+    background-color: white;
+    text-align: center;
+    margin: 50%;
+    width: fit-content;
+    padding: 10px;
+}
+
+.box1 {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 20px rgb(161, 10, 10) solid;
+    margin-bottom: 10px;
+}
+.box2 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 20px rgb(161, 149, 10) solid;
+    margin-bottom: 10px;
+}
+
+.box3 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 20px rgba(1, 48, 1, 0.532) solid;
+}
+
+body {
+    background-color: lightgrey;
+}
+
